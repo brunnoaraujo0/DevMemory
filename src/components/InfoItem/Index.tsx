@@ -1,6 +1,7 @@
+//COMPONENTE DAS INFORMACAO
 import * as C from './styles';
 
-type Props = {
+type Props = { // O ESQUELETO DA PROP TEM UM NOME E UM VALOR
     label: string;
     value: string;
 }

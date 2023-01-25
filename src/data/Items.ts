@@ -1,3 +1,4 @@
+//AQUI SÃO TODOS O POSSIVEIS FIGURINHAS
 import android from '../svgs/android.svg';
 import caminhao from '../svgs/caminhao.svg';
 import disney from '../svgs/disney.svg';

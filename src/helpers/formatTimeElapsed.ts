@@ -1,3 +1,4 @@
+//COMPONENTE PARA FORMATAR A HORA
 export const formatTimeElapsed = (seconds: number) => {
 
     let minutes = Math.floor(seconds / 60);
