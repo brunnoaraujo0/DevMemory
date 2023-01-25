@@ -14,8 +14,8 @@ export const Container = styled.div<ContainerProps>`
 `;
 
 export const icon = styled.img<IconProps>`
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     opacity: ${props => props.opacity ?? 1};
     `;
 
